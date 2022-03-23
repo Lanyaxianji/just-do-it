@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Muu'Pages
 
 You can use the [editor on GitHub](https://github.com/Lanyaxianji/just-do-it/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
